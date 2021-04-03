@@ -169,7 +169,7 @@ ul li a
 	position: absolute;
 	margin-left: 200px;
 	margin-top: 300px;
-	animation: bounceInLeft 10s linear 1s forwards ;
+	animation: bounceInLeft 5s linear 1s forwards ;
 	overflow:inherit;
 }
 .bttn2
@@ -205,7 +205,7 @@ ul li a
 	margin-top: 220px;
 	position: absolute;
 	animation:  fadeInUpBig 7s linear 2s infinite ;
-	animation: pulse 10s linear 2s infinite ;
+	animation: pulse 7s linear 2s infinite ;
 	overflow:inherit;
 		
 }
@@ -216,7 +216,7 @@ ul li a
 	margin-left: 800px;
 	margin-top:  240px;
 	position: absolute;
-	animation:  fadeInUpBig 7s linear 1s forwards ;
+	animation:  fadeInUpBig 6s linear 1s forwards ;
 	overflow:inherit;
 }
 .icon_03
@@ -255,7 +255,7 @@ ul li a
 	height: 150px;
 	background-color:#EBEBEB;
 	position: absolute;
-	animation: bounceInLeft 5s linear  forwards ;
+	animation: bounceInLeft 9s linear  forwards ;
 }
 .content06
 {
@@ -337,7 +337,7 @@ ul li a
 	margin-left: 200px;
 	margin-top:  220px;
 	position: absolute;
-	animation:  fadeInLeftBig 10s linear 2s forwards ;
+	animation:  fadeInLeftBig 8s linear 2s forwards ;
 	overflow:inherit;
 }
 .img_05
@@ -348,7 +348,7 @@ ul li a
 	margin-left: 520px;
 	margin-top:  220px;
 	position: absolute;
-	animation:  fadeInUpBig 10s linear 2s forwards ;
+	animation:  fadeInUpBig 8s linear 2s forwards ;
 	overflow:inherit;
 }
 .img_06
@@ -359,7 +359,7 @@ ul li a
 	margin-left: 840px;
 	margin-top:  220px;
 	position: absolute;
-	animation:  fadeInUpBig 10s linear 2s forwards ;
+	animation:  fadeInUpBig 8s linear 2s forwards ;
 	overflow:inherit;
 }
 .img_07
@@ -370,7 +370,7 @@ ul li a
 	margin-left: 1160px;
 	margin-top:  220px;
 	position: absolute;
-	animation:  fadeInRightBig 10s linear 2s forwards ;
+	animation:  fadeInRightBig 8s linear 2s forwards ;
 	overflow:inherit;
 	
 }
