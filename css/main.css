@@ -169,7 +169,7 @@ ul li a
 	position: absolute;
 	margin-left: 200px;
 	margin-top: 300px;
-	animation: bounceInLeft 5s linear 1s forwards ;
+	animation: bounceInLeft 3s linear  forwards ;
 	overflow:inherit;
 }
 .bttn2
